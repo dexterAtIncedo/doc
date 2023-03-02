@@ -19,7 +19,7 @@ import mysql.connector
 hostname = 'dexterdb.cisiy73bogbe.us-east-1.rds.amazonaws.com'
 username = 'admin'
 password = 'dexter2000'
-database = 'database-1'
+database = 'dexterdb'
 
 s3_target_bucket = 'target-dexter'
 
