@@ -16,7 +16,7 @@ import datetime
 import mysql.connector
 
 
-hostname = 'dexterdb.cisiy73bogbe.us-east-1.rds.amazonaws.com'
+hostname = 'database-1.cisiy73bogbe.us-east-1.rds.amazonaws.com'
 username = 'admin'
 password = 'dexter2000'
 database = 'dexterdb'
